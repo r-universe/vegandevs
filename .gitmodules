@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cepreader"]
+	path = cepreader
+	url = https://github.com/vegandevs/cepreader
+	shallow = true
+	registered = true
+[submodule "vegan"]
+	path = vegan
+	url = https://github.com/vegandevs/vegan
+	shallow = true
+	registered = true
+[submodule "vegan3d"]
+	path = vegan3d
+	url = https://github.com/vegandevs/vegan3d
+	shallow = true
+	registered = true

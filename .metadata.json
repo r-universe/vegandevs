@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cepreader",
+    "oncran": true
+  },
+  {
+    "package": "vegan",
+    "oncran": true
+  },
+  {
+    "package": "vegan3d",
+    "oncran": true
+  }
+]
