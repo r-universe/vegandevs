@@ -1,6 +1,6 @@
 [
   {
-    "package": "cepreader",
+    "package": "vegan3d",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "vegan3d",
+    "package": "cepreader",
     "oncran": true
   }
 ]
