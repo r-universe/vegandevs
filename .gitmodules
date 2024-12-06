@@ -5,6 +5,9 @@
 [submodule "cepreader"]
 	path = cepreader
 	url = https://github.com/vegandevs/cepreader
+[submodule "lmodel2"]
+	path = lmodel2
+	url = https://github.com/vegandevs/lmodel2
 [submodule "vegan"]
 	path = vegan
 	url = https://github.com/vegandevs/vegan
